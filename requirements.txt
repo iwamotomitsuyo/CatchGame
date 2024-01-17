@@ -1,3 +1,4 @@
 pygame==2.5.2
 pymunk==6.6.0
+uvicorn==0.26.0
 
