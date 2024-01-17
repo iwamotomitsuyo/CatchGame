@@ -1,4 +1,6 @@
 pygame==2.5.2
 pymunk==6.6.0
 uvicorn==0.26.0
-gunicorn Game1:screen_width
+gunicorn==21.2.0
+Flask==3.0.0
+
